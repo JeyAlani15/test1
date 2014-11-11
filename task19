@@ -1,1 +1,0 @@
-//book[child::price >= 30 and child::price < 40]
